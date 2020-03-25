@@ -1,4 +1,4 @@
-# My implementation for Project HTML/CSS at the Odin Project - Cloning the layout of Google's Search Results Page
+# My implementation for Project HTML/CSS at the Odin Project - Cloning the layout of Google's Search Page
 This is an implementation of the first, 'easy' version, mentioned at Odin: Cloning the look (positional layout) of the Google Search Search Page.
 
 **Details:**(https://www.theodinproject.com/courses/web-development-101/lessons/html-css)
