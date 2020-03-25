@@ -5,3 +5,4 @@ This is an implementation of the 'easy' version, Clone of the look of the Google
 
 **Here's a snapshot of the Google Search Page I built
 ![screenshot](images/Googlehomepage.png)
+**page published at**(https://samsonemeje.github.io/google-homepage/)
